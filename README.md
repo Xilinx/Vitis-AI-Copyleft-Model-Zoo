@@ -30,6 +30,8 @@ The directory structure associated each model is uniquely associated with a spec
         
         ├── Model B 
         │    │    
+        │    ├── LICENSE.md      # License file for Model A
+        │    ├── code            # Model source code 
         │    ├── ...
         
 Additional Model Zoo documentation and performance benchmarks are available on **[Github.io](https://xilinx.github.io/Vitis-AI/docs/workflow-model-zoo)** or **[OFFLINE](../docs/docs/workflow-model-zoo.html)**.
