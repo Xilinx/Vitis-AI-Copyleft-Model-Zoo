@@ -18,7 +18,7 @@ The directory structure associated each model is uniquely associated with a spec
         
     Vitis-AI-License-Restricted-Model-Zoo
         │
-        ├── README.md      # License file for Model A
+        ├── README.md            # This file
         │
         ├── Model A  
         │    │    
