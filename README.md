@@ -5,12 +5,12 @@
  </tr>
 </table>
 
-![Release Version](https://img.shields.io/github/v/release/Xilinx/Vitis-AI-GPL-Model-Zoo)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/Xilinx/Vitis-AI-GPL-Model-Zoo)
+![Release Version](https://img.shields.io/github/v/release/Xilinx/Vitis-AI-Copyleft-Model-Zoo)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/Xilinx/Vitis-AI-Copyleft-Model-Zoo)
 [![Documentation](https://img.shields.io/badge/documentation-github.IO-blue.svg)](https://xilinx.github.io/Vitis-AI/)
-![Repo Size](https://img.shields.io/github/repo-size/Xilinx/Vitis-AI-GPL-Model-Zoo)
+![Repo Size](https://img.shields.io/github/repo-size/Xilinx/Vitis-AI-Copyleft-Model-Zoo)
 
-# Vitis AI License Restricted Model Zoo
+# Vitis AI Copyleft Model Zoo
 
 The purpose of this repsitory is to release models that are not compatible with the Vitis™ AI Apache 2.0 license.  These models have been released in this separate repository in order to clearly identify the source license for these models.
 
