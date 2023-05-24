@@ -24,15 +24,13 @@ The directory structure associated each model is uniquely associated with a spec
         │    │    
         │    ├── LICENSE.md      # License file for Model A
         │    ├── code            # Model source code 
-        │    ├── data            # Dataset placeholder directory
-        │    ├── float           # FP32 GPU model
-        │    └── quantized       # Quantized model(s)
-        
+        │    └── data            # Dataset placeholder directory      
         ├── Model B 
         │    │    
         │    ├── LICENSE.md      # License file for Model A
         │    ├── code            # Model source code 
-        │    ├── ...
+        │    └── data            # Dataset placeholder directory  
+        ...
         
 Additional Model Zoo documentation and performance benchmarks are available on **[Github.io](https://xilinx.github.io/Vitis-AI/docs/workflow-model-zoo)** or **[OFFLINE](../docs/docs/workflow-model-zoo.html)**.
 
