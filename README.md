@@ -30,7 +30,7 @@ The directory structure associated each model is uniquely associated with a spec
         
         ├── Model B 
         │    │    
-        │    ├── LICENSE.md      # License file for Model A
+        │    ├── LICENSE.md      # License file for Model B
         │    ├── code            # Model source code 
         │    ├── ...
         
