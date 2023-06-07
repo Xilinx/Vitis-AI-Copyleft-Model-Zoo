@@ -11,8 +11,8 @@ Here is a brief description of changes that were made to get hardware friendly Y
 
 |Dataset |Model Name                      |Input Size |GFLOPS    |Official FLOAT AP[0.5:0.95]%|FLOAT AP[0.5:0.95]%|Quant AP[0.5:0.95]%|
 |--------|------------------------------- |-----------|----------|----------------------------|-------------------|-------------------|
-|COCO    |YOLOv5n                         |640x640    |**4.5**   |   28.0                     | 27.0              | 26.2              |
-|COCO    |YOLOv5l                         |640x640    |**109.1** |   49.0                     | 47.2              | 45.5              |
+|COCO    |YOLOv5 nano                     |640x640    |**4.5**   |   28.0                     | 27.0              | 26.2              |
+|COCO    |YOLOv5 large                    |640x640    |**109.1** |   49.0                     | 47.2              | 45.5              |
 |COCO    |YOLOv5s6                        |1280x1280  |**16.8**  |   44.8                     | 43.6              | 42.0              |
 
 
