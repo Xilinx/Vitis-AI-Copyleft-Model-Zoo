@@ -1,0 +1,21 @@
+#train: /datasets/coco2017_yolov5/images/train2017
+#val: /datasets/coco2017_yolov5/images/val2017
+#test: /datasets/coco2017_yolov5/images/val2017
+train: /group/dphi_algo_scratch_13/fangyuan/datasets/coco/train2017.txt
+val: /group/dphi_algo_scratch_13/fangyuan/datasets/coco/val2017.txt
+# train: ../coco/train2017.txt  # 118k images
+# val: ../coco/val2017.txt  # 5k images
+# test: ../coco/testdev2017.txt  # 20k images
+# number of classes
+nc: 80
+
+# class names
+names: ['person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light',
+        'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow',
+        'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella', 'handbag', 'tie', 'suitcase', 'frisbee',
+        'skis', 'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove', 'skateboard', 'surfboard',
+        'tennis racket', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'banana', 'apple',
+        'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair', 'couch',
+        'potted plant', 'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone',
+        'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear',
+        'hair drier', 'toothbrush']

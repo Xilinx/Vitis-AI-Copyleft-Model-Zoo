@@ -1,0 +1,6 @@
+coco/
+nndct/
+yolov6_nndct/runs/
+**/__pycache__/
+**/*.pyc
+**/*.egg-info/
