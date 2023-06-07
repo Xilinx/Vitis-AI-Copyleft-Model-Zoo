@@ -28,7 +28,7 @@ The directory structure associated each model is uniquely associated with a spec
         ├── Model B 
         │    │    
         │    ├── LICENSE.md      # License file for Model B
-        │    └── ...             # Sources for Model A
+        │    └── ...             # Sources for Model B
         │
         ...
         
