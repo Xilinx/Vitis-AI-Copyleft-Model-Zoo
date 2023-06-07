@@ -23,14 +23,12 @@ The directory structure associated each model is uniquely associated with a spec
         ├── Model A  
         │    │    
         │    ├── LICENSE.md      # License file for Model A
-        │    ├── code            # Model source code 
-        │    └── data            # Dataset placeholder directory  
+        │    └── ...             # Sources for Model A
         │
         ├── Model B 
         │    │    
         │    ├── LICENSE.md      # License file for Model B
-        │    ├── code            # Model source code 
-        │    └── data            # Dataset placeholder directory  
+        │    └── ...             # Sources for Model A
         │
         ...
         
