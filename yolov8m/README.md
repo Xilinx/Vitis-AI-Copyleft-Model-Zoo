@@ -1,4 +1,8 @@
 ## YOLOv8m
+
+### Hardware friendly changes
+- Change the activation operation from SiLU to HardSiLU in quantization
+
 ### Prepare
 #### Prepare the environment
 ```markdown
