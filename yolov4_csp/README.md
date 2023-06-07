@@ -27,7 +27,6 @@ Here is a brief description of changes that were made to get yolov4-csp-leaky fr
 
 #### For vitis-ai docker user
 ```bash
-conda activate vitis-ai-pytorch
 pip install -r requirements.txt
 ```
 

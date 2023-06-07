@@ -10,7 +10,6 @@
 
 ##### For vitis-ai docker user
 ```bash
-conda activate vitis-ai-pytorch
 pip install -r requirements.txt
 # you also need to install nndct and xir(optional for dump xmodel)
 cd torch_rewriters

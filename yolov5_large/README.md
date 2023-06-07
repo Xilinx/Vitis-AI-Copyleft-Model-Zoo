@@ -22,7 +22,6 @@ Here is a brief description of changes that were made to get hardware friendly Y
 
 #### For vitis-ai docker user
 ```bash
-conda activate vitis-ai-pytorch
 pip install -r requirements.txt
 ```
 
