@@ -7,7 +7,7 @@
 
 ![Release Version](https://img.shields.io/github/v/release/Xilinx/Vitis-AI-Copyleft-Model-Zoo)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/Xilinx/Vitis-AI-Copyleft-Model-Zoo)
-[![Documentation](https://img.shields.io/badge/documentation-github.IO-blue.svg)](https://xilinx.github.io/Vitis-AI/)
+[![Documentation](https://img.shields.io/badge/documentation-github.IO-blue.svg)](https://xilinx.github.io/Vitis-AI/docs/workflow-model-zoo)
 ![Repo Size](https://img.shields.io/github/repo-size/Xilinx/Vitis-AI-Copyleft-Model-Zoo)
 
 # Vitis AI Copyleft Model Zoo
