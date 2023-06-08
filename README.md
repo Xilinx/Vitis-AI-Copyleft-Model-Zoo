@@ -22,12 +22,12 @@ The directory structure associated each model is uniquely associated with a spec
         │
         ├── Model A  
         │    │    
-        │    ├── LICENSE.md      # License file for Model A
+        │    ├── LICENSE         # License file for Model A
         │    └── ...             # Sources for Model A
         │
         ├── Model B 
         │    │    
-        │    ├── LICENSE.md      # License file for Model B
+        │    ├── LICENSE         # License file for Model B
         │    └── ...             # Sources for Model B
         │
         ...
