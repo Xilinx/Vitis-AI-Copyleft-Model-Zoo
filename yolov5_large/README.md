@@ -16,7 +16,7 @@ Here is a brief description of changes that were made to get hardware friendly Y
 |COCO    |YOLOv5s6                        |1280x1280  |**16.8**  |   44.8                     | 43.6              | 42.0              |
 
 
-## Model Weights Download: [YOLOv5_large](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov5-large_3.5.zip)
+### Model Weights Download: [YOLOv5_large](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov5-large_3.5.zip)
 
 
 ## Prepare
