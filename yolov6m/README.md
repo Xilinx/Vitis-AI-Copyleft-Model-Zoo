@@ -4,6 +4,8 @@
 - Change the activation operation from Swish to ReLU
 - When deployed, replace the elementwise multiply operation between scale parameter alpha and feature in the BottleRep module by depthwise convolution
 
+### Model Weights Download: [YOLOv6m](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov6m_3.5.zip)
+
 ### Prepare
 
 #### Prepare the environment

@@ -3,6 +3,8 @@
 ### Hardware friendly changes
 - Change the activation operation from SiLU to HardSiLU in quantization
 
+## Model Weights Download: [YOLOv5l](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov5l_3.5.zip)
+
 ### Prepare
 #### Prepare the environment
 ```markdown
