@@ -14,7 +14,7 @@
 
 The purpose of this repository is to release models that are not compatible with the Vitis™ AI Apache 2.0 license.  The original source code for these models was released via a copyleft, or reciprocal license.  For Vitis AI, these models have been released in this separate repository in order to clearly identify the source license for these models.
 
-The directory structure associated each model is uniquely associated with a specific license file so that the user can evaluate whether the license for the model is compatible with their own company policies and license requirements.  Pre-compiled versions of these models are not provided because the Vitis AI Compiler is not open-source.  Users must leverage the scripts provide as a template to compile the model for their target using the Vitis AI Compiler
+The directory structure associated each model is uniquely associated with a specific license file so that the user can evaluate whether the license for the model is compatible with their own company policies and license requirements.  Pre-compiled versions of these models are not provided because the Vitis AI Compiler is not open-source.  Users must leverage the scripts provided as a template to compile the model for their target using the Vitis AI Compiler
         
     Vitis-AI-License-Restricted-Model-Zoo
         │
