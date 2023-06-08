@@ -35,7 +35,7 @@ The structure of this repository shown below highlights the presence of per mode
         │
         ...
         
-Additional Model Zoo documentation and performance benchmarks are available on **[Github.io](https://xilinx.github.io/Vitis-AI/docs/workflow-model-zoo)** or **[OFFLINE](../docs/docs/workflow-model-zoo.html)**.
+Additional Model Zoo documentation and performance benchmarks are available on **[GITHUB.io](https://xilinx.github.io/Vitis-AI/docs/workflow-model-zoo)** or **[OFFLINE](../docs/docs/workflow-model-zoo.html)**.
 
 ## Contributing
 
