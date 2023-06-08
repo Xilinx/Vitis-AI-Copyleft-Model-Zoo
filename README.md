@@ -16,9 +16,9 @@ The purpose of this repository is to release models that are not compatible with
 
 In order for users to leverage these models with Vitis AI, modifications are required to that original source code.  This repository provides users with source-code modifications to ensure compatibility with Vitis AI. Pre-compiled versions of these models are not provided because the Vitis AI Compiler is not open-source.  Users, at their discretion, and subject to the terms of the inherited license, may leverage the scripts provided as a template to compile the model for their target using the Vitis AI Compiler.
 
-The directory structure of this repository is such that each model is uniquely associated with a specific license file, allowing the user to evaluate the license requirements for each model.  Thus, the user can evaluate whether the license for the model is compatible with their own company policies and legal requirements.  
+The directory structure of this repository is such that each model is uniquely associated with a specific license file, allowing the user to evaluate the license requirements for each model.  It is the user's responsibility to verify that the model license is compatible with their own company policies and legal requirements.  
 
-AMD is releasing each model under the terms of the inherited license for that specific model.  No additional license is associated with, or otherwise implied, for the contents of this repository.
+AMD is releasing each model under the terms of the inherited license for that model.  No additional license is associated with, or otherwise implied, for the contents of this repository.
 
         
     Vitis-AI-Copyleft-Model-Zoo
