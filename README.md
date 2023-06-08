@@ -15,6 +15,9 @@
 The purpose of this repository is to release models that are not compatible with the Vitis™ AI Apache 2.0 license.  The original source code for these models was released under a copyleft, reciprocal, or otherwise non-permissive license.  In order for users to leverage these models with Vitis AI, modifications are required to that original source code.  This repository provides users with the source-code modifications to ensure compatibility with Vitis AI.  The purpose of releasing these models in this separate repository is to allow us clearly identify the source license for these models.
 
 The directory structure of this repository is such that each model is uniquely associated with a specific license file.  Thus, the user can evaluate whether the license for the model is compatible with their own company policies and legal requirements.  Pre-compiled versions of these models are not provided because the Vitis AI Compiler is not open-source.  Users must instead leverage the scripts provided as a template to compile the model for their target using the Vitis AI Compiler.
+
+The structure of this repository shown below highlights the presence of per model licenses, allowing the user to evaluate the license requirements for each model.  AMD is releasing each model under the terms of the original license for that model.  No additional license is associated or otherwise implied in association with the contents of this repository.
+
         
     Vitis-AI-Copyleft-Model-Zoo
         │
