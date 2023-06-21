@@ -106,8 +106,8 @@ else:
 
 - **Board: VEK280**
   - Type: xmodel
-  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
-  - Checksum: 
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov4_csp_pt-vek280-r3.5.0.tar.gz
+  - Checksum:3f010f3bff8489be845914ab5ee4f899
 - **Board: V70**
   - Type: xmodel
   - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov4_csp_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz

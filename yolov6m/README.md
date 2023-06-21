@@ -97,8 +97,8 @@ python tools_nndct/quantization/export_nndct.py --conf configs/repopt/yolov6m_op
 
 - **Board: VEK280**
   - Type: xmodel
-  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
-  - Checksum:
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov6m_pt-vek280-r3.5.0.tar.gz
+  - Checksum:1d059a85a0f08cd040a5ce47a40c48d0
 - **Board: V70**
   - Type: xmodel
   - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov6m_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz

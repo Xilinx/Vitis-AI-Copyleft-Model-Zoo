@@ -85,8 +85,8 @@ bash run_quant.sh
 
 - **Board: VEK280**
   - Type: xmodel
-  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
-  - Checksum:
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov5_nano_pt-vek280-r3.5.0.tar.gz
+  - Checksum:e50d4619277be0ef43d681801e138d12
 - **Board: V70**
   - Type: xmodel
   - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov5_nano_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz
