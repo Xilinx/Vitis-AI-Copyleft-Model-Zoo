@@ -86,3 +86,14 @@ python test_nndct.py --data data/coco.yaml --img 640 --batch 1 --conf 0.001 --io
 | YOLOv7 | 640 | 50.9% | 104.8G |
 | YOLOv7 QUANT| 640 | 40.8% | - |
 | YOLOv7 QAT| 640 | 47.9% | - |
+
+### **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum:
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov7_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz
+  - Checksum: 9ebe915378a483eb5730f7568ab7ec1a

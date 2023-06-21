@@ -42,3 +42,15 @@ bash run_quant.sh
 | Model             | Input Size | Float mAP   | Quant mAP   | FLOPs  |
 |-------------------|------------|-------------|-------------|--------|
 | YOLOv8m           | 640*640    | 50.0%       | 48.7%       | 78.9G  |
+
+
+### **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum:
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov8m_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz
+  - Checksum: 61c2a1d4364baac393a20a2d9687b168

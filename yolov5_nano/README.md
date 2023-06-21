@@ -82,6 +82,17 @@ cd code
 bash run_quant.sh
 ```
 
+## **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum:
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov5_nano_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz
+  - Checksum: 2fe917195017e25466dc4412a1de7479
+
 ## **References**
 
 [1] [Official YOLOV5 repository](https://github.com/ultralytics/yolov5/) <br>
