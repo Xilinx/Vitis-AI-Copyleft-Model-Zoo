@@ -92,3 +92,14 @@ python tools_nndct/quantization/export_nndct.py --conf configs/repopt/yolov6m_op
 | YOLOv6m-opt | 640 | 48.3% | 41.19GMac |
 | YOLOv6m-opt QUANT| 640 | 46.0% | - |
 | YOLOv6m-opt QAT| 640 | 47.5% | - |
+
+### **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum:
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov6m_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz
+  - Checksum: 096a432710261b131337b1b1513e16c2

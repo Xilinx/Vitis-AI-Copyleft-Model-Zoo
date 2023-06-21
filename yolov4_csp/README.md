@@ -103,6 +103,17 @@ else:
     return (io.view(bs, -1, self.no), p)
 ```
 
+## **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum: 
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov4_csp_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz
+  - Checksum: 56e1e8ced90b3efa7b80e0b6d4851c66
+
 ## **References**
 
 [1] [WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-csp) <br>
