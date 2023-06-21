@@ -21,9 +21,6 @@ Here is a brief description of changes that were made to get yolov4-csp-leaky fr
 |COCO    |YOLOv4-csp                      |640x640    |**122**   |47.8                        |   47.0            | 46.3              |
 
 
-### Model Weights Download: [YOLOv4_CSP](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov4csp_3.5.zip)
-
-
 ## Prepare
 
 ### Prepare the environment
@@ -102,6 +99,8 @@ else:
     io[..., :4] *= self.stride
     return (io.view(bs, -1, self.no), p)
 ```
+
+### GPU Model Weights Download: [YOLOv4_CSP](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov4csp_3.5.zip)
 
 ## **Pre-Compiled Models For Hardware Acceleration Platform**
 

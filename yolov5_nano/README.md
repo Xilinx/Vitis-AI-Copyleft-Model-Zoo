@@ -16,9 +16,6 @@ Here is a brief description of changes that were made to get hardware friendly Y
 |COCO    |YOLOv5s6                        |1280x1280  |**16.8**  |   44.8                     | 43.6              | 42.0              |
 
 
-### Model Weights Download: [YOLOv5_nano](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov5-nano_3.5.zip)
-
-
 ## Prepare
 
 ### Prepare the environment
@@ -81,6 +78,8 @@ bash run_test.sh
 cd code
 bash run_quant.sh
 ```
+
+### Model Weights Download: [YOLOv5_nano](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov5-nano_3.5.zip)
 
 ## **Pre-Compiled Models For Hardware Acceleration Platform**
 

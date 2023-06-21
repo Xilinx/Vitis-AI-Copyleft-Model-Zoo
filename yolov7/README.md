@@ -3,8 +3,6 @@
 ### Hardware friendly changes
 - Change the activation operation from SiLU to HardSiLU in quantization
 
-### Model Weights Download: [YOLOv7](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov7_3.5.zip)
-
 ### Prepare
 
 #### Prepare the environment
@@ -86,6 +84,8 @@ python test_nndct.py --data data/coco.yaml --img 640 --batch 1 --conf 0.001 --io
 | YOLOv7 | 640 | 50.9% | 104.8G |
 | YOLOv7 QUANT| 640 | 40.8% | - |
 | YOLOv7 QAT| 640 | 47.9% | - |
+
+### Model Weights Download: [YOLOv7](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov7_3.5.zip)
 
 ### **Pre-Compiled Models For Hardware Acceleration Platform**
 

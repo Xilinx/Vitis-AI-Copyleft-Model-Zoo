@@ -3,8 +3,6 @@
 ### Hardware friendly changes
 - Change the activation operation from SiLU to HardSiLU in quantization
 
-### Model Weights Download: [YOLOv8m](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov8m_3.5.zip)
-
 ### Prepare
 #### Prepare the environment
 ```markdown
@@ -43,6 +41,8 @@ bash run_quant.sh
 |-------------------|------------|-------------|-------------|--------|
 | YOLOv8m           | 640*640    | 50.0%       | 48.7%       | 78.9G  |
 
+
+### Model Weights Download: [YOLOv8m](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov8m_3.5.zip)
 
 ### **Pre-Compiled Models For Hardware Acceleration Platform**
 

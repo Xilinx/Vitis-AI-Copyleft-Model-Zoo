@@ -4,8 +4,6 @@
 - Change the activation operation from Swish to ReLU
 - When deployed, replace the elementwise multiply operation between scale parameter alpha and feature in the BottleRep module by depthwise convolution
 
-### Model Weights Download: [YOLOv6m](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov6m_3.5.zip)
-
 ### Prepare
 
 #### Prepare the environment
@@ -92,6 +90,8 @@ python tools_nndct/quantization/export_nndct.py --conf configs/repopt/yolov6m_op
 | YOLOv6m-opt | 640 | 48.3% | 41.19GMac |
 | YOLOv6m-opt QUANT| 640 | 46.0% | - |
 | YOLOv6m-opt QAT| 640 | 47.5% | - |
+
+### Model Weights Download: [YOLOv6m](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov6m_3.5.zip)
 
 ### **Pre-Compiled Models For Hardware Acceleration Platform**
 
