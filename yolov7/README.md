@@ -91,8 +91,8 @@ python test_nndct.py --data data/coco.yaml --img 640 --batch 1 --conf 0.001 --io
 
 - **Board: VEK280**
   - Type: xmodel
-  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
-  - Checksum:
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov7_pt-vek280-r3.5.0.tar.gz
+  - Checksum:56c823bca1583b730847163ff89f1e82
 - **Board: V70**
   - Type: xmodel
   - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov7_pt-v70-DPUCV2DX8G-r3.5.0.tar.gz

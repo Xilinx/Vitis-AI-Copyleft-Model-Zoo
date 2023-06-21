@@ -42,3 +42,16 @@ bash run_quant.sh
 | Model             | Input Size | Float mAP   | Quant mAP   | FLOPs  |
 |-------------------|------------|-------------|-------------|--------|
 | YOLOv5l           | 640\*640   | 49.0%       | 45.7%       | 78.9G  |
+
+### Model Weights Download: [YOLOv5l](https://www.xilinx.com/bin/public/openDownload?filename= )
+
+## **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov5l_pt-vek280-r3.5.0.tar.gz
+  - Checksum:43197d598c67b2c66c99f3cbaa18e1b6
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum: 

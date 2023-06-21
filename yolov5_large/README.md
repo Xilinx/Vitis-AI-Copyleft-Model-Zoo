@@ -81,7 +81,19 @@ bash run_test.sh
 cd code
 bash run_quant.sh
 ```
+### Model Weights Download: [YOLOv5_large](https://www.xilinx.com/bin/public/openDownload?filename= )
 
+## **Pre-Compiled Models For Hardware Acceleration Platform**
+
+- **Board: VEK280**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=yolov5_large_pt-vek280-r3.5.0.tar.gz
+  - Checksum:b97e48c735f2bbc95b50e7fcdb2c04f0
+- **Board: V70**
+  - Type: xmodel
+  - DownLoad Link: https://www.xilinx.com/bin/public/openDownload?filename=
+  - Checksum: 
+  
 ## **References**
 
 [1] [Official YOLOV5 repository](https://github.com/ultralytics/yolov5/) <br>
