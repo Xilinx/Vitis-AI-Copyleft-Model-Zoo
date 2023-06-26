@@ -32,9 +32,6 @@ Put coco2017 dataset under the ./yolov7/coco directory, dataset directory struct
     + val2017.txt
 ```
 
-#### Prepare the model
-Download model file: [yolov7.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) and put in yolov7/ directory.
-
 ### For yolov7 Eval/QAT
 
 
@@ -85,7 +82,7 @@ python test_nndct.py --data data/coco.yaml --img 640 --batch 1 --conf 0.001 --io
 | YOLOv7 QUANT| 640 | 40.8% | - |
 | YOLOv7 QAT| 640 | 47.9% | - |
 
-### Model Weights Download: [YOLOv7](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov7_3.5.zip)
+### GPU Model Weights Download: [YOLOv7](https://www.xilinx.com/bin/public/openDownload?filename=pt_yolov7_3.5.zip)
 
 ### **Pre-Compiled Models For Hardware Acceleration Platform**
 
